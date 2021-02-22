@@ -3,4 +3,4 @@ Trabalho final usado para passar na Disciplina de Linguagens e Técnicas de Prog
 
 Nada muito sério, apenas para passar na disciplina de LTP2 mesmo XD
 
-Ambiente usado: Xampp com servidor apache e servidor SQL
+Ambiente usado: Xampp usando seu servidor apache e seu servidor SQL
