@@ -6,7 +6,9 @@
 ### Para rodar o projeto: 
 #### Banco:
 Primeiramente crie um banco chamado 'prova' e use ele:
+
 <create database `prova`; use prova;>
+
 Depois cole o codigo do txt "banco" dentro do campo de consulta e execute.
 
 #### Site em si:
