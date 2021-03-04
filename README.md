@@ -32,3 +32,5 @@ Editor de código: visual studio code
 Versão do servidor de banco: 10.4.14-MariaDB
 
 Versão do PHP: 7.4.10
+
+Alteração fork
