@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/VitorZary/Trabalho-Final-Disciplina-LTP2)
+![GitHub](https://img.shields.io/github/license/VitorZary/Trabalho-Final-Disciplina-LTP2)
 # Trabalho-Final-Disciplina-LTP2
 
 ### Trabalho final usado para passar na Disciplina de Linguagens e Técnicas de Programação no meu curso: Bacharelado em Sistemas de Informação
