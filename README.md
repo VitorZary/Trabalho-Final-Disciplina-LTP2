@@ -18,10 +18,10 @@ Apenas cole ele na pasta htdocs do seu xampp e vá no navegador digitando localh
 
 
 ### Usuários padrões do sistema:
-#### Usuário admin:
+#### Usuário comum:
 login: vitor, senha: 123
 
-#### Usuário comum:
+#### Usuário admin:
 login: arthur, senha: 123
 
 
